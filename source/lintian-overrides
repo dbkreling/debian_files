@@ -1,0 +1,17 @@
+ibm-sdk-lop: configure-generated-file-in-source
+
+source: license-problem-md5sum-non-free-file ibm-java-80/jre/lib/cmm/sRGB.pf
+
+source: source-is-missing sdk_launcher
+
+source: source-is-missing ibm-java-80/jre/lib/*
+source: source-is-missing ibm-java-80/lib/*
+
+source: source-is-missing ibm-java-80/jre/bin/*
+source: source-is-missing ibm-java-80/bin/*
+
+source: source-is-missing ibm-java-80/demo/*
+
+source: source-is-missing plugins/org.eclipse.equinox.launcher.gtk.linux.ppc64le_1.0.300.v20150602-1417/eclipse_1613.so
+source: source-is-missing welcome/js/jquery.easing.min.js
+source: source-is-missing welcome/js/jquery.js
